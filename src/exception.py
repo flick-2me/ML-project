@@ -1,5 +1,5 @@
 import sys
-from logger import logging
+from src.logger import logging
 
 # Spelling fix ki aur format theek kiya
 def error_message_detail(error, error_detail:sys):
